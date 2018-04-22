@@ -41,7 +41,7 @@ Ethereum at 637.15 USD
       |                                        
       |                                        
       |                      +      ++         
-637   |                      +++++++++         
+637   |                       +++++++          
       |                                        
       |                                        
       |                                        
@@ -61,3 +61,5 @@ EOS at 11.6256 USD
       |                                        
 -8    |                                        
 ```
+
+Also exports as bitcoin.chart, litecoin.chart, etc. for use in other applications.
